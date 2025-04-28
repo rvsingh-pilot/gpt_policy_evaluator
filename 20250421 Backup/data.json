@@ -1,0 +1,101 @@
+[
+  {
+    "state": "California",
+    "policy_summary": "The license plates stays with the seller to be potentially transferred to another vehicle they own",
+    "dmv_excerpt": "Application for Replacement Plates, Stickers, Documents (REG 156)AREG 156 (PDF)is used when the vehicle is missing a license plate or has no license plates, such as when the seller kept their personalized license plates for use on another vehicle owned by the seller.",
+    "highlighted_quote": "when the seller kept their personalized license plates for **use on another vehicle owned by the seller**",
+    "plate_retention_policy": "Plate stays with seller (can transfer)",
+    "source_url": "https://www.dmv.ca.gov/portal/how-to-change-vehicle-ownership-htvr-32/",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plates stays with the seller to be potentially transferred to another vehicle they own",
+    "final_quote": "Application for Replacement Plates, Stickers, Documents (REG 156)AREG 156 (PDF)is used when the vehicle is missing a license plate or has no license plates, such as when the seller kept their personalized license plates for use on another vehicle owned by the seller.",
+    "evaluation_notes": "None"
+  },
+  {
+    "state": "New York",
+    "policy_summary": "In New York, license plates must be surrendered to the DMV. When the vehicle's liability insurance coverage is cancelled, plates and registration must be surrendered. Plates should also be surrendered anytime a vehicle is registered in another state. Failure to do so might lead to registration and driver's license suspension. Anytime plates are surrendered, all attached fixtures should be removed and application for surrender should be filled. Plates can also be surrendered temporarily under specific conditions.",
+    "dmv_excerpt": "Before you cancel the vehicle's liability insurance coverage you must surrender your plates and registration. If you do not turn in your plate(s), we will suspend your registration and can suspend your driver license. If you want to register your vehicle in another state you must surrender your New York State vehicle plates to the New York DMV.",
+    "highlighted_quote": "Before you cancel the vehicle's liability insurance coverage you must **surrender your plates and registration**. If you do not **turn in your plate(s), we will suspend your registration and can suspend your driver license**. If you want to register your vehicle in another state you must **surrender your New York State vehicle plates** to the New York DMV.",
+    "plate_retention_policy": "Plate stays with seller (must surrender to DMV or destroy)",
+    "source_url": "https://dmv.ny.gov/registration/surrender-return-or-turn-in-your-vehicle-plates-and-registration",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "In New York, license plates must be surrendered to the DMV. When the vehicle's liability insurance coverage is cancelled, plates and registration must be surrendered. Plates should also be surrendered anytime a vehicle is registered in another state. Failure to do so might lead to registration and driver's license suspension. Anytime plates are surrendered, all attached fixtures should be removed and application for surrender should be filled. Plates can also be surrendered temporarily under specific conditions.",
+    "final_quote": "Before you cancel the vehicle's liability insurance coverage you must surrender your plates and registration. If you do not turn in your plate(s), we will suspend your registration and can suspend your driver license. If you want to register your vehicle in another state you must surrender your New York State vehicle plates to the New York DMV.",
+    "evaluation_notes": "Not specific to vehicle sale"
+  },
+  {
+    "state": "Texas",
+    "policy_summary": "In Texas, license plates may be transferred to a new vehicle owned by the seller or be disposed of by the seller if not kept. Not applicable to unauthorized license plates which should be defaced or destroyed in a way to prevent fraudulent use.",
+    "dmv_excerpt": "It is simple and free to transfer your license plates to your new vehicle. The TxDMV encourages you to transfer your plates because it protects you. Your local county tax assessor-collector's office will assist with the transfer and issue you a new registration sticker for your vehicle. If you decide not to keep your license plates when you sell or dispose of your vehicle, the plates should be disposed of by defacing the front of the plate with permanent black ink, or similar method, in order to prevent their fraudulent use.",
+    "highlighted_quote": "It is simple and free to **transfer your license plates** to your new vehicle. If you decide not to keep your license plates when you sell or dispose of your vehicle, the plates should be **disposed of by defacing** the front of the plate with permanent black ink, or similar method, in order to prevent their fraudulent use.",
+    "plate_retention_policy": "Plate stays with seller (can transfer)",
+    "source_url": "https://www.txdmv.gov/motorists/license-plates",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Texas, license plates may be transferred to a new vehicle owned by the seller or be disposed of by the seller if not kept. Not applicable to unauthorized license plates which should be defaced or destroyed in a way to prevent fraudulent use.",
+    "final_quote": "It is simple and free to transfer your license plates to your new vehicle. The TxDMV encourages you to transfer your plates because it protects you. Your local county tax assessor-collector's office will assist with the transfer and issue you a new registration sticker for your vehicle. If you decide not to keep your license plates when you sell or dispose of your vehicle, the plates should be disposed of by defacing the front of the plate with permanent black ink, or similar method, in order to prevent their fraudulent use.",
+    "evaluation_notes": "None"
+  },
+  {
+    "state": "New Jersey",
+    "policy_summary": "In the state of New Jersey, upon sale of a vehicle, the license plates must either be surrendered to a motor vehicle agency or transferred to another vehicle owned by the seller. They cannot be transferred to a different owner.",
+    "dmv_excerpt": "The Seller must: Remove the plates and surrender them to a motor vehicle agency, unless the plates are being transferred to another vehicle (plates can be transferred to another vehicle, but not to another owner).",
+    "highlighted_quote": "The Seller must: **Remove the plates and surrender** them to a motor vehicle agency, unless the plates are being **transferred to another vehicle** (plates can be transferred to another vehicle, but **not to another owner**).",
+    "plate_retention_policy": "Plate stays with seller (can transfer)",
+    "source_url": "https://www.nj.gov/mvc/vehicles/transowner.htm#:~:text=If%20you%20sold%20or%20bought,but%20not%20to%20another%20owner).",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In the state of New Jersey, upon sale of a vehicle, the license plates must either be surrendered to a motor vehicle agency or transferred to another vehicle owned by the seller. They cannot be transferred to a different owner.",
+    "final_quote": "The Seller must: Remove the plates and surrender them to a motor vehicle agency, unless the plates are being transferred to another vehicle (plates can be transferred to another vehicle, but not to another owner).",
+    "evaluation_notes": "None"
+  },
+  {
+    "state": "Florida",
+    "policy_summary": "In the state of Florida, when a motor vehicle is sold, the license plates should stay with the seller, not the vehicle. The seller may then transfer the plate to a new or replacement vehicle. However, the seller must surrender the tag to a motor vehicle service center under certain conditions like: if they're moving to another state or cancels the insurance on the vehicle associated with the plate.",
+    "dmv_excerpt": "Removing the Plates In a sale, license plates stay with the seller not the vehicle. When motor vehicles are sold, the seller must remove the license plate from the vehicle and may then transfer the plate to a new or replacement vehicle.The seller must surrender the tag to a motor vehicle service center if: The seller is moving to another state; or the seller cancels insurance on the vehicle associated with the plate.",
+    "highlighted_quote": "In a sale, **license plates stay with the seller** not the vehicle",
+    "plate_retention_policy": "Plate stays with seller (can transfer)",
+    "source_url": "https://www.flhsmv.gov/safety-center/consumer-education/selling-vehicle/",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In the state of Florida, when a motor vehicle is sold, the license plates should stay with the seller, not the vehicle. The seller may then transfer the plate to a new or replacement vehicle. However, the seller must surrender the tag to a motor vehicle service center under certain conditions like: if they're moving to another state or cancels the insurance on the vehicle associated with the plate.",
+    "final_quote": "Removing the Plates In a sale, license plates stay with the seller not the vehicle. When motor vehicles are sold, the seller must remove the license plate from the vehicle and may then transfer the plate to a new or replacement vehicle.The seller must surrender the tag to a motor vehicle service center if: The seller is moving to another state; or the seller cancels insurance on the vehicle associated with the plate.",
+    "evaluation_notes": "None"
+  },
+  {
+    "state": "Louisiana",
+    "policy_summary": "In Louisiana, regular automobile license plates should be destroyed by the seller. However, truck and trailer plates may stay with the vehicle and be transferred to the new owner. Special prestige license plates may be kept by the seller. Alternatively, license plates may be surrendered.",
+    "dmv_excerpt": "After successfully completing the 'Notice of Vehicle Transfer' on our web site, regular automobile license plates should be destroyed by the seller. Truck and trailer plates may stay with the vehicle and be transferred to the new owner. Special prestige license plates may be kept by the seller.",
+    "highlighted_quote": "After successfully completing the 'Notice of Vehicle Transfer' on our web site, **regular automobile license plates should be destroyed by the seller**. Truck and trailer plates **may stay with the vehicle and be transferred to the new owner**. Special prestige **license plates may be kept by the seller**.",
+    "plate_retention_policy": "Plate stays with the seller (must surrender to DMV or destroy)",
+    "source_url": "https://expresslane.dps.louisiana.gov/Notice_of_Transfer/VT_FAQ.aspx",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Louisiana, regular automobile license plates should be destroyed by the seller. However, truck and trailer plates may stay with the vehicle and be transferred to the new owner. Special prestige license plates may be kept by the seller. Alternatively, license plates may be surrendered.",
+    "final_quote": "After successfully completing the 'Notice of Vehicle Transfer' on our web site, regular automobile license plates should be destroyed by the seller. Truck and trailer plates may stay with the vehicle and be transferred to the new owner. Special prestige license plates may be kept by the seller.",
+    "evaluation_notes": "None"
+  },
+  {
+    "state": "Georgia",
+    "policy_summary": "The license plate stays with the seller when a vehicle is sold in Georgia. The seller can keep the license plates in their personal possession, transfer them to another vehicle they own, or surrender them to the Department of Revenue (DOR) for cancellation.",
+    "dmv_excerpt": "The previous owner should keep the vehicle\u2019s license plate and any tags. These do not transfer with the vehicle to its new owner. The previous owner can keep the license plates in their personal possession, transfer the license plate to a new vehicle, or surrender the license plate to the DOR for cancellation.",
+    "highlighted_quote": "The previous owner should **keep the vehicle\u2019s license plate** and any tags. These do not transfer with the vehicle to its new owner. The previous owner can **keep the license plates in their personal possession**, **transfer the license plate to a new vehicle**, or **surrender the license plate to the DOR for cancellation**.",
+    "plate_retention_policy": "Plate stays with seller (can transfer)",
+    "source_url": "https://georgia.gov/sell-motor-vehicle",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plate stays with the seller when a vehicle is sold in Georgia. The seller can keep the license plates in their personal possession, transfer them to another vehicle they own, or surrender them to the Department of Revenue (DOR) for cancellation.",
+    "final_quote": "The previous owner should keep the vehicle\u2019s license plate and any tags. These do not transfer with the vehicle to its new owner. The previous owner can keep the license plates in their personal possession, transfer the license plate to a new vehicle, or surrender the license plate to the DOR for cancellation.",
+    "evaluation_notes": "None"
+  },
+  {
+    "state": "Illinois",
+    "policy_summary": "Policy not found - manual validation needed",
+    "dmv_excerpt": "",
+    "highlighted_quote": "",
+    "plate_retention_policy": "Policy not found - manual validation needed",
+    "source_url": "https://www.illinois.gov/business/registration-licenses-permits.html"
+  }
+]

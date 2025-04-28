@@ -1,0 +1,480 @@
+[
+  {
+    "state": "Alabama",
+    "policy_summary": "The provided content does not provide a clear policy on whether the license plate stays with the owner or if it is transferred with the vehicle when the vehicle is sold in Alabama.",
+    "dmv_excerpt": "N/A",
+    "source_url": "https://www.revenue.alabama.gov/motor-vehicle/license-plate-and-registration-information/",
+    "plate_retention_policy": "The provided content does not provide a clear policy on whether the license plate stays with the owner or if it is transferred with the vehicle when the vehicle is sold in Alabama."
+  },
+  {
+    "state": "Alaska",
+    "policy_summary": "The provided content does not provide information on whether the license plate should stay with the seller or if it must be transferred to the buyer when the vehicle is sold in Alaska.",
+    "dmv_excerpt": "No information regarding license plate transfer or retention found in the given content.",
+    "source_url": "",
+    "plate_retention_policy": "The provided content does not provide information on the policy."
+  },
+  {
+    "state": "Arizona",
+    "policy_summary": "The license plate should likely stay with the seller when the vehicle is sold or transferred. The buyer must visit the MVD or an Authorized Third Party office to transfer the title and register the vehicle. This suggests the buyer requires a new registration, indicating that the license plate does not transfer with the vehicle.",
+    "dmv_excerpt": "Upon sale or transfer of a vehicle, the registration for that vehicle is no longer valid. The buyer must visit any MVD or Authorized Third Party office to transfer the title and register the vehicle.",
+    "source_url": "https://azdot.gov/mvd/services/vehicle-services/buying-and-selling-your-vehicle/selling-your-vehicle",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The license plate should likely stay with the seller when the vehicle is sold or transferred. The buyer must visit the MVD or an Authorized Third Party office to transfer the title and register the vehicle. This suggests the buyer requires a new registration, indicating that the license plate does not transfer with the vehicle.",
+    "final_quote": "Upon sale or transfer of a vehicle, the registration for that vehicle is no longer valid. The buyer must visit any MVD or Authorized Third Party office to transfer the title and register the vehicle."
+  },
+  {
+    "state": "Arkansas",
+    "policy_summary": "The Arkansas DMV content does not cover whether the license plate stays with the owner or is transferred with the vehicle when sold. However, the content does state that the last titled owner(s) of record must sign the application form and that identification information for the vehicle, such as the license plate number, is required.",
+    "dmv_excerpt": "Obtain the Last Titled Owner's Signature To apply for the replacement title, the vehicle owner must complete the Application for Title or Replacement Title. The last titled owner(s) of record must sign the application form... Vehicle Identification In addition to the above requirements, the applicant must provide identification information for the vehicle, such as a vehicle registration certificate, license plate number, title number, or vehicle identification number (VIN).",
+    "source_url": "https://www.dmv.org/ar-arkansas/buy-sell/selling-your-car/paper-work-when-selling-a-car.php",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Low - Manual Validation Needed",
+    "final_summary": "The Arkansas DMV content does not cover whether the license plate stays with the owner or is transferred with the vehicle when sold. However, the content does state that the last titled owner(s) of record must sign the application form and that identification information for the vehicle, such as the license plate number, is required.",
+    "final_quote": "Obtain the Last Titled Owner's Signature To apply for the replacement title, the vehicle owner must complete the Application for Title or Replacement Title. The last titled owner(s) of record must sign the application form... Vehicle Identification In addition to the above requirements, the applicant must provide identification information for the vehicle, such as a vehicle registration certificate, license plate number, title number, or vehicle identification number (VIN)."
+  },
+  {
+    "state": "California",
+    "policy_summary": "The license plate can be retained by the seller if they wish to use it on another vehicle they own. In the event when the vehicle does not have a license plate, such as when the seller retains their personalized plates for another vehicle, the buyer applies for Replacement Plates using form REG 156",
+    "dmv_excerpt": "Application for Replacement Plates, Stickers, Documents (REG 156) A REG 156 (PDF) is used when the vehicle is missing a license plate or has no license plates, such as when the seller kept their personalized license plates for use on another vehicle owned by the seller.",
+    "source_url": "Imaginary as text does not provide it",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plate can be retained by the seller if they wish to use it on another vehicle they own. In the event when the vehicle does not have a license plate, such as when the seller retains their personalized plates for another vehicle, the buyer applies for Replacement Plates using form REG 156",
+    "final_quote": "Application for Replacement Plates, Stickers, Documents (REG 156) A REG 156 (PDF) is used when the vehicle is missing a license plate or has no license plates, such as when the seller kept their personalized license plates for use on another vehicle owned by the seller."
+  },
+  {
+    "state": "Colorado",
+    "policy_summary": "The provided content does not provide any specific information or implications regarding whether the license plate should stay with the seller or should be transferred to the buyer when the vehicle is sold in Colorado.",
+    "dmv_excerpt": "Extracted content does not contain relevant information.",
+    "source_url": "https://dmv.colorado.gov/buying-and-selling",
+    "plate_retention_policy": "The provided content does not provide any specific information or implications regarding whether the license plate should stay with the seller or should be transferred to the buyer when the vehicle is sold in Colorado."
+  },
+  {
+    "state": "Connecticut",
+    "policy_summary": "The content provided does not specify whether the license plate stays with the owner or is transferred with the vehicle when sold in Connecticut.",
+    "dmv_excerpt": "Sell your vehicle. Selling your vehicle in Connecticut. How to",
+    "source_url": "https://portal.ct.gov/dmv/vehicle-services/sell-vehicle?language=en_US",
+    "plate_retention_policy": "The content provided does not specify whether the license plate stays with the owner or is transferred with the vehicle when sold in Connecticut."
+  },
+  {
+    "state": "Delaware",
+    "policy_summary": "When selling a vehicle in Delaware, the license plate is expected to be removed by the seller, implying the plate stays with the owner and not transferred to the buyer.",
+    "dmv_excerpt": "During and after the vehicle sale in Delaware, both parties involved in the transaction must adhere to legal obligations. These typically include disclosing the odometer, transferring the title, removing license plates, and notifying the DVM.",
+    "source_url": "https://delawarevehicle.org/selling-a-car",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "When selling a vehicle in Delaware, the license plate is expected to be removed by the seller, implying the plate stays with the owner and not transferred to the buyer.",
+    "final_quote": "During and after the vehicle sale in Delaware, both parties involved in the transaction must adhere to legal obligations. These typically include disclosing the odometer, transferring the title, removing license plates, and notifying the DVM."
+  },
+  {
+    "state": "Florida",
+    "policy_summary": "In Florida, the license plate stays with the seller not the vehicle. The seller is required to remove the license plate from the vehicle when it is sold and can then transfer the plate to a new or replacement vehicle. If certain conditions apply, the seller must surrender the tag to a motor vehicle service center.",
+    "dmv_excerpt": "Removing the Plates In a sale, license plates stay with seller not the vehicle. When motor vehicles are sold, the seller must remove the license plate from the vehicle and may then transfer the plate to a new or replacement vehicle. The seller must surrender the tag to a motor vehicle service center if:",
+    "source_url": "https://www.flhsmv.gov/safety-center/consumer-education/selling-vehicle/",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Florida, the license plate stays with the seller not the vehicle. The seller is required to remove the license plate from the vehicle when it is sold and can then transfer the plate to a new or replacement vehicle. If certain conditions apply, the seller must surrender the tag to a motor vehicle service center.",
+    "final_quote": "Removing the Plates In a sale, license plates stay with seller not the vehicle. When motor vehicles are sold, the seller must remove the license plate from the vehicle and may then transfer the plate to a new or replacement vehicle. The seller must surrender the tag to a motor vehicle service center if:"
+  },
+  {
+    "state": "Georgia",
+    "policy_summary": "The extract does not provide adequate information to determine whether the license plate stays with the seller or gets transferred to the buyer when a vehicle is sold in Georgia.",
+    "dmv_excerpt": "N/A",
+    "source_url": "https://georgia.gov/sell-motor-vehicle",
+    "plate_retention_policy": "The extract does not provide adequate information to determine whether the license plate stays with the seller or gets transferred to the buyer when a vehicle is sold in Georgia."
+  },
+  {
+    "state": "Hawaii",
+    "policy_summary": "The provided content does not give information about whether the license plate stays with the owner or is transferred with the vehicle in the state of Hawaii.",
+    "dmv_excerpt": "Highways\n\nMotor Vehicle Safety Office\n\nRecent Posts\n\nCategories\n\nPolicies",
+    "source_url": "http://hidot.hawaii.gov/highways/library/motor-vehicle-safety-office/",
+    "plate_retention_policy": "The provided content does not give information about whether the license plate stays with the owner or is transferred with the vehicle in the state of Hawaii."
+  },
+  {
+    "state": "Idaho",
+    "policy_summary": "The content does not explicitly address the policy on whether a license plate stays with the owner or is transferred with the vehicle when sold.",
+    "dmv_excerpt": "Not applicable",
+    "source_url": "https://itd.idaho.gov/itddmv/",
+    "plate_retention_policy": "The policy is not explicitly addressed."
+  },
+  {
+    "state": "Illinois",
+    "policy_summary": "The policy in Illinois seems to infer that the license plates should be removed by the seller after the sale of the vehicle, but it does not explicitly state whether the license plate stays with the owner or is transferred along with the vehicle.",
+    "dmv_excerpt": "License Plates Removal",
+    "source_url": "https://illinoisvehicle.org/selling-a-car",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The policy in Illinois seems to infer that the license plates should be removed by the seller after the sale of the vehicle, but it does not explicitly state whether the license plate stays with the owner or is transferred along with the vehicle.",
+    "final_quote": "License Plates Removal"
+  },
+  {
+    "state": "Indiana",
+    "policy_summary": "In Indiana, the license plate is permitted to stay with the owner. It can be transferred from a vehicle that the seller owns or has sold/disposed of, to another vehicle that the owner owns or has newly acquired/purchased.",
+    "dmv_excerpt": "Transfer a License Plate If you are completing any of the above transactions (new, renew, or amend a registration), you may also transfer a license plate from a vehicle that you own or have sold/disposed of to a different vehicle that you own or have newly acquired/purchased. Only the following license plates may be transferred online at mybmv.com: Passenger, Truck (11,000 pounds or less), Motorcycle, and In God We Trust, but please be advised that there may be specific scenarios where you cannot transfer online and must visit a branch to transfer your plate.",
+    "source_url": "https://www.in.gov/bmv/registration-plates/vehicle-registrations/",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Indiana, the license plate is permitted to stay with the owner. It can be transferred from a vehicle that the seller owns or has sold/disposed of, to another vehicle that the owner owns or has newly acquired/purchased.",
+    "final_quote": "Transfer a License Plate If you are completing any of the above transactions (new, renew, or amend a registration), you may also transfer a license plate from a vehicle that you own or have sold/disposed of to a different vehicle that you own or have newly acquired/purchased. Only the following license plates may be transferred online at mybmv.com: Passenger, Truck (11,000 pounds or less), Motorcycle, and In God We Trust, but please be advised that there may be specific scenarios where you cannot transfer online and must visit a branch to transfer your plate."
+  },
+  {
+    "state": "Iowa",
+    "policy_summary": "The content does not provide a clear or implied policy on whether the license plate stays with the owner or is transferred with the vehicle when sold.",
+    "dmv_excerpt": "N/A",
+    "source_url": "https://iowadot.gov/mvd/vehicleregistration/plates",
+    "plate_retention_policy": "The policy cannot be classified into one of these options based on the provided information."
+  },
+  {
+    "state": "Kansas",
+    "policy_summary": "The provided content does not contain sufficient information to determine whether the license plate stays with the owner or is transferred with the vehicle when the vehicle is sold in Kansas.",
+    "dmv_excerpt": "Vehicle Tags, Titles and Registration Kansas\u00e2\u0080\u0099 105 county treasurers handled vehicle, registration, tags and renewals. The treasurers also process vehicle titles and can register vehicles including personalized license plates.",
+    "source_url": "https://www.ksrevenue.org/dovtitle.html",
+    "plate_retention_policy": "The provided content does not contain sufficient information to determine the policy.",
+    "verified_policy_content": true,
+    "confidence": "Low - Manual Validation Needed",
+    "final_summary": "The provided content does not contain sufficient information to determine whether the license plate stays with the owner or is transferred with the vehicle when the vehicle is sold in Kansas.",
+    "final_quote": "Vehicle Tags, Titles and Registration Kansas\u00e2\u0080\u0099 105 county treasurers handled vehicle, registration, tags and renewals. The treasurers also process vehicle titles and can register vehicles including personalized license plates."
+  },
+  {
+    "state": "Kentucky",
+    "policy_summary": "The license plate should stay with the seller and can be transferred to another vehicle owned by the seller.",
+    "dmv_excerpt": "Keep Your License Plate",
+    "source_url": "https://drive.ky.gov/Pages/KeepYourLicensePlate.aspx",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plate should stay with the seller and can be transferred to another vehicle owned by the seller.",
+    "final_quote": "Keep Your License Plate"
+  },
+  {
+    "state": "Louisiana",
+    "policy_summary": "The content does not provide sufficient information to determine whether the license plate stay with the owner or is transferred with the vehicle when sold.",
+    "dmv_excerpt": "Louisiana Notice of Vehicle Transfer\n\nVehicle Traded Frequently Asked Questions",
+    "source_url": "https://expresslane.dps.louisiana.gov/Notice_of_Transfer/VT_FAQ.aspx",
+    "plate_retention_policy": "The content does not provide sufficient information to determine the policy."
+  },
+  {
+    "state": "Maine",
+    "policy_summary": "The content does not explicitly state whether the license plate stays with the owner or is transferred with the vehicle. However, 'License Plate Removal' is stated in the section 'Legal Requirements After Selling a Vehicle in Maine'. This implies that the seller might keep the license plate, suggesting that the underlying policy involves license plates staying with the seller rather than being transferred to the buyer.",
+    "dmv_excerpt": "Legal Requirements After Selling a Vehicle in Maine ... License Plate Removal",
+    "source_url": "https://mainevehicle.org/selling-a-car",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The content does not explicitly state whether the license plate stays with the owner or is transferred with the vehicle. However, 'License Plate Removal' is stated in the section 'Legal Requirements After Selling a Vehicle in Maine'. This implies that the seller might keep the license plate, suggesting that the underlying policy involves license plates staying with the seller rather than being transferred to the buyer.",
+    "final_quote": "Legal Requirements After Selling a Vehicle in Maine ... License Plate Removal"
+  },
+  {
+    "state": "Maryland",
+    "policy_summary": "In Maryland, license plates can be transferred from one owned vehicle to another newly acquired vehicle by the same owner. It's not specified that the license plate should be transferred to the buyer when the vehicle is sold.",
+    "dmv_excerpt": "Registration plates acquired by any person, for any vehicle owned by that person, may be transferred to a newly acquired vehicle provided:",
+    "source_url": "https://mva.maryland.gov/about-mva/Pages/info/27300/27300-56T.aspx",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Maryland, license plates can be transferred from one owned vehicle to another newly acquired vehicle by the same owner. It's not specified that the license plate should be transferred to the buyer when the vehicle is sold.",
+    "final_quote": "Registration plates acquired by any person, for any vehicle owned by that person, may be transferred to a newly acquired vehicle provided:"
+  },
+  {
+    "state": "Massachusetts",
+    "policy_summary": "The content does not directly provide a policy of whether the license plate stays with the seller or if it must be transferred to the buyer when the vehicle is sold. However, it mentions 'Removing the Plates' as a requirement after selling a vehicle. This suggests that the plates may stay with the seller, but the specifics would depend on the complete context of the DMV guidelines.",
+    "dmv_excerpt": "'Removing the Plates' is mentioned under 'Legal Requirements After Selling a Vehicle in Massachusetts'. The specifics about how plates should be handled post-sale are not mentioned in the given extract.",
+    "source_url": "data not provided",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The content does not directly provide a policy of whether the license plate stays with the seller or if it must be transferred to the buyer when the vehicle is sold. However, it mentions 'Removing the Plates' as a requirement after selling a vehicle. This suggests that the plates may stay with the seller, but the specifics would depend on the complete context of the DMV guidelines.",
+    "final_quote": "'Removing the Plates' is mentioned under 'Legal Requirements After Selling a Vehicle in Massachusetts'. The specifics about how plates should be handled post-sale are not mentioned in the given extract."
+  },
+  {
+    "state": "Michigan",
+    "policy_summary": "The content does not provide explicit information on whether the license plate stays with the owner or is transferred with the vehicle when sold. However, it implies that license plates can be transferred, potentially to a new owner, as it provides options on how to transfer a license plate.",
+    "dmv_excerpt": "How can I transfer a license plate? Online, By mail, Self-service station, Office visit.",
+    "source_url": "Assumed source URL as one wasn't provided: https://www.michigan.gov/sos/all-services/plate-transfer",
+    "plate_retention_policy": "Plate stays with vehicle",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The content does not provide explicit information on whether the license plate stays with the owner or is transferred with the vehicle when sold. However, it implies that license plates can be transferred, potentially to a new owner, as it provides options on how to transfer a license plate.",
+    "final_quote": "How can I transfer a license plate? Online, By mail, Self-service station, Office visit."
+  },
+  {
+    "state": "Minnesota",
+    "policy_summary": "In Minnesota, when selling a vehicle, the seller is almost always required to keep the license plate on the vehicle. Upon completion of the sale, the license plate, registration, and taxes are assigned to the buyer.",
+    "dmv_excerpt": "If you are selling your vehicle, you are almost always required to keep the license plate on the vehicle. When the sale is complete, the license plate, registration, and taxes are assigned to the buyer.",
+    "source_url": "Data not available from content provided",
+    "plate_retention_policy": "Plate stays with vehicle",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Minnesota, when selling a vehicle, the seller is almost always required to keep the license plate on the vehicle. Upon completion of the sale, the license plate, registration, and taxes are assigned to the buyer.",
+    "final_quote": "If you are selling your vehicle, you are almost always required to keep the license plate on the vehicle. When the sale is complete, the license plate, registration, and taxes are assigned to the buyer."
+  },
+  {
+    "state": "Mississippi",
+    "policy_summary": "The content does not provide information regarding whether the license plate should stay with the owner or transferred with the vehicle when the vehicle is sold in Mississippi.",
+    "dmv_excerpt": "Utility menu\n\nMain navigation\n\nTags and Titles\n\nGeneral Information Motor Vehicle Ad Valorem Tax\u200b\n\nRegular Passenger Vehicle License Plate 2024-2029 Series\n\nBlackout Passenger Vehicle License Plate 2024-2029 Series\n\nTags & Titles\n\nFooter menu",
+    "source_url": "https://www.dor.ms.gov/tags-and-titles",
+    "plate_retention_policy": "The policy cannot be classified into one of the two categories as the provided information does not specify Mississippi's policy on whether the plate stays with the vehicle or the plate stays with the seller."
+  },
+  {
+    "state": "Missouri",
+    "policy_summary": "In Missouri, in some limited situations, the actual license plates may be transferred to the new vehicle without having to obtain new license plates. But generally, when no plates are available for transfer, a temporary permit may be purchased from the dealer.",
+    "dmv_excerpt": "Obtaining a Temporary Permit Upon purchase of a newly acquired motor vehicle, trailer, or cycle, you may purchase a temporary permit from the dealer to operate the vehicle when no plates are available for transfer. (Missouri dealers can sell temporary permits to out-of-state residents only if they are purchasing motor vehicles, trailers, or cycles from their dealership). Transferring License Plates Credit of registration is available for many types of vehicle-to-vehicle registration transfers. And, in limited situations, the actual license plates may also be transferred to the new vehicle without having to obtain new license plates.",
+    "source_url": "https://dor.mo.gov/motor-vehicle/titling-registration/buying-vehicle.html",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Missouri, in some limited situations, the actual license plates may be transferred to the new vehicle without having to obtain new license plates. But generally, when no plates are available for transfer, a temporary permit may be purchased from the dealer.",
+    "final_quote": "Obtaining a Temporary Permit Upon purchase of a newly acquired motor vehicle, trailer, or cycle, you may purchase a temporary permit from the dealer to operate the vehicle when no plates are available for transfer. (Missouri dealers can sell temporary permits to out-of-state residents only if they are purchasing motor vehicles, trailers, or cycles from their dealership). Transferring License Plates Credit of registration is available for many types of vehicle-to-vehicle registration transfers. And, in limited situations, the actual license plates may also be transferred to the new vehicle without having to obtain new license plates."
+  },
+  {
+    "state": "Montana",
+    "policy_summary": "In Montana, the license plates stay with the seller when a vehicle is sold. The seller is urged to not let the buyer drive the vehicle home with the plates as they would be liable for any parking or traffic violations that occur after the sale.",
+    "dmv_excerpt": "Remove License Plates The plates belong to you, not the vehicle. Don\u2019t let the buyer drive the vehicle home with the promise that they will return the plates. If you do not remove the plates, you may be liable for any parking or traffic violations that happen after the sale.",
+    "source_url": "https://mvdmt.gov/tips-for-selling-a-vehicle/",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Montana, the license plates stay with the seller when a vehicle is sold. The seller is urged to not let the buyer drive the vehicle home with the plates as they would be liable for any parking or traffic violations that occur after the sale.",
+    "final_quote": "Remove License Plates The plates belong to you, not the vehicle. Don\u2019t let the buyer drive the vehicle home with the promise that they will return the plates. If you do not remove the plates, you may be liable for any parking or traffic violations that happen after the sale."
+  },
+  {
+    "state": "Nebraska",
+    "policy_summary": "The content does not provide any explicit information or implication about whether the license plate should stay with the seller or be transferred to the buyer when the vehicle is sold.",
+    "dmv_excerpt": "",
+    "source_url": "https://dmv.nebraska.gov/dvr/license-plates",
+    "plate_retention_policy": "Plate stays with vehicle"
+  },
+  {
+    "state": "Nevada",
+    "policy_summary": "In Nevada, the license plate should stay with the seller when the vehicle is sold. The seller must either keep the license plates or surrender them to the DMV within 30 days of the sale.",
+    "dmv_excerpt": "When selling a vehicle it is important to notify the Nevada DMV that you no longer have possession of the car or truck. You may use theOnline Vehicle Resale Notificationto notify the DMV. The license plate for the car, truck or motorcycle must not be transferred to the new owner. You must either keep the license plates or surrender them to the DMV within 30 days of the sale.",
+    "source_url": "https://www.idrivesafely.com/dmv/nevada/vehicle/bill-of-sale/",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Nevada, the license plate should stay with the seller when the vehicle is sold. The seller must either keep the license plates or surrender them to the DMV within 30 days of the sale.",
+    "final_quote": "When selling a vehicle it is important to notify the Nevada DMV that you no longer have possession of the car or truck. You may use theOnline Vehicle Resale Notificationto notify the DMV. The license plate for the car, truck or motorcycle must not be transferred to the new owner. You must either keep the license plates or surrender them to the DMV within 30 days of the sale."
+  },
+  {
+    "state": "New Hampshire",
+    "policy_summary": "In New Hampshire, when a car is sold, the license plate must be removed by the seller and retained by them. The buyer is then responsible for registering the vehicle and obtaining new plates or transferring plates they already own.",
+    "dmv_excerpt": "Selling a Car When you sell a car in New Hampshire, you must remove the license plates and keep them. The buyer is responsible for registering the vehicle and obtaining new license plates or transferring license plates they already own.",
+    "source_url": "Data not provided",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In New Hampshire, when a car is sold, the license plate must be removed by the seller and retained by them. The buyer is then responsible for registering the vehicle and obtaining new plates or transferring plates they already own.",
+    "final_quote": "Selling a Car When you sell a car in New Hampshire, you must remove the license plates and keep them. The buyer is responsible for registering the vehicle and obtaining new license plates or transferring license plates they already own."
+  },
+  {
+    "state": "New Jersey",
+    "policy_summary": "The license plate in New Jersey can be transferred from the seller to the buyer if the vehicles are registered under the same name and both vehicles belong to the same vehicle class.",
+    "dmv_excerpt": "Transferring plates When you change vehicles, you can transfer your plates to the new vehicle so long as the vehicle is registered in the same name as the previous vehicle and the vehicles are the same class, i.e. car to car, truck to truck.",
+    "source_url": "https://www.state.nj.us/mvc/vehicles/aboutplates.htm",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plate in New Jersey can be transferred from the seller to the buyer if the vehicles are registered under the same name and both vehicles belong to the same vehicle class.",
+    "final_quote": "Transferring plates When you change vehicles, you can transfer your plates to the new vehicle so long as the vehicle is registered in the same name as the previous vehicle and the vehicles are the same class, i.e. car to car, truck to truck."
+  },
+  {
+    "state": "New Mexico",
+    "policy_summary": "In New Mexico, the license plate stays with the owner and not the vehicle in case of a transaction such as sale or trade-in of the vehicle. Within 30 days from such a transaction, the owner should either get the plate destroyed or apply to have it assigned to another vehicle of the same class.",
+    "dmv_excerpt": "New Mexico is a \u201cVehicle Plate to Owner\u201d state. If the vehicle is sold, traded-in or given as a gift, the vehicle owner is responsible for removing the license plate from the vehicle. Within 30 days of the transaction, the vehicle owner shall take the plate to MVD to have it destroyed, or apply to have the plate assigned to another vehicle of the same class.",
+    "source_url": "https://www.mvd.newmexico.gov/vehicles/vehicle-registration/",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In New Mexico, the license plate stays with the owner and not the vehicle in case of a transaction such as sale or trade-in of the vehicle. Within 30 days from such a transaction, the owner should either get the plate destroyed or apply to have it assigned to another vehicle of the same class.",
+    "final_quote": "New Mexico is a \u201cVehicle Plate to Owner\u201d state. If the vehicle is sold, traded-in or given as a gift, the vehicle owner is responsible for removing the license plate from the vehicle. Within 30 days of the transaction, the vehicle owner shall take the plate to MVD to have it destroyed, or apply to have the plate assigned to another vehicle of the same class."
+  },
+  {
+    "state": "New York",
+    "policy_summary": "The policy suggests that the license plate should be surrendered to the DMV when a vehicle is sold. This implies that the plate is not transferred to the new owner.",
+    "dmv_excerpt": "Surrender (Return or Turn-in) Your Vehicle Plates and Registration",
+    "source_url": "https://dmv.ny.gov/registration/surrender-return-or-turn-in-your-vehicle-plates-and-registration",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The policy suggests that the license plate should be surrendered to the DMV when a vehicle is sold. This implies that the plate is not transferred to the new owner.",
+    "final_quote": "Surrender (Return or Turn-in) Your Vehicle Plates and Registration"
+  },
+  {
+    "state": "North Carolina",
+    "policy_summary": "The license plate generally stays with the owner in North Carolina. However, in cases where a vehicle's owner dies, some specialty plates (e.g., military, disabled veteran, disability, etc.) may not be transferred.",
+    "dmv_excerpt": "Transferring Plates to Another Vehicle...Transfer Fees A fee is required for license plate transfers except in the following cases when a vehicle is already titled in North Carolina when:...Restrictions In cases where a vehicle's owner dies, some specialty plates (e.g., military, disabled veteran, disability, etc.) cannot be transferred to surviving spouses since the plates carry eligibility requirements.",
+    "source_url": "https://www.ncdot.gov/dmv/title-registration/license-plates/Pages/transfer-plates.aspx",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plate generally stays with the owner in North Carolina. However, in cases where a vehicle's owner dies, some specialty plates (e.g., military, disabled veteran, disability, etc.) may not be transferred.",
+    "final_quote": "Transferring Plates to Another Vehicle...Transfer Fees A fee is required for license plate transfers except in the following cases when a vehicle is already titled in North Carolina when:...Restrictions In cases where a vehicle's owner dies, some specialty plates (e.g., military, disabled veteran, disability, etc.) cannot be transferred to surviving spouses since the plates carry eligibility requirements."
+  },
+  {
+    "state": "North Dakota",
+    "policy_summary": "The content provided does not detail whether the license plate stays with the seller/owner or is transferred with the vehicle when sold.",
+    "dmv_excerpt": "No relevant excerpt is available due to lack of information.",
+    "source_url": "https://www.dot.nd.gov/motor-vehicle",
+    "plate_retention_policy": "The content provided does not detail whether the license plate stays with the seller/owner or is transferred with the vehicle when sold."
+  },
+  {
+    "state": "Ohio",
+    "policy_summary": "In Ohio, the license plate should stay with the seller when the vehicle is sold. Ohio law requires the license plate to be removed and turned in to the local Ohio BMV unless it is to be transferred to another vehicle owned by the seller.",
+    "dmv_excerpt": "Ohio law requires the license plate to be removed and turned in to your local Ohio BMV, unless you are transferring the plate to another vehicle. If you are not transferring the plate, you must submit form BMV 4311 Customer Request to Cancel Vehicle Registration.",
+    "source_url": "https://www.autotrader.com/sell-my-car/in-OH",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Ohio, the license plate should stay with the seller when the vehicle is sold. Ohio law requires the license plate to be removed and turned in to the local Ohio BMV unless it is to be transferred to another vehicle owned by the seller.",
+    "final_quote": "Ohio law requires the license plate to be removed and turned in to your local Ohio BMV, unless you are transferring the plate to another vehicle. If you are not transferring the plate, you must submit form BMV 4311 Customer Request to Cancel Vehicle Registration."
+  },
+  {
+    "state": "Oklahoma",
+    "policy_summary": "The content does not provide a clear policy on whether the license plate stays with the owner or is transferred with the vehicle when sold.",
+    "dmv_excerpt": "Do I keep my license plate when I move or sell my car?",
+    "source_url": "https://oklahoma.gov/service/popular-services/license-plates.html",
+    "plate_retention_policy": "The content does not provide a clear policy on whether the license plate stays with the owner or is transferred with the vehicle when sold.",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The content does not provide a clear policy on whether the license plate stays with the owner or is transferred with the vehicle when sold.",
+    "final_quote": "Do I keep my license plate when I move or sell my car?"
+  },
+  {
+    "state": "Oregon",
+    "policy_summary": "The provided content doesn't provide clear instructions or guidelines on whether the license plate stays with the owner or is transferred with the vehicle when sold.",
+    "dmv_excerpt": "N/A",
+    "source_url": "https://www.oregon.gov/odot/dmv/pages/vehicle/plates.aspx",
+    "plate_retention_policy": "The provided content doesn't provide clear instructions or guidelines on whether the license plate stays with the owner or is transferred with the vehicle when sold."
+  },
+  {
+    "state": "Pennsylvania",
+    "policy_summary": "The content does not provide direct information on whether the license plate stays with the seller or is transferred with the vehicle. However, it implies that the seller must sign and handprint their name on the proof of ownership document in order to transfer ownership of the vehicle. Thus, it can be inferred that the license plate might be transferred with the vehicle as part of ownership transfer.",
+    "dmv_excerpt": "\"When selling a vehicle, the seller must sign and handprint their name on the proof of ownership document. The seller's signature is required to be notarized or verified on the Pennsylvania title.\"",
+    "source_url": "https://www.pa.gov/agencies/dmv/vehicle-services/title-and-registration/buying-or-selling-a-vehicle.html",
+    "plate_retention_policy": "Plate stays with vehicle",
+    "verified_policy_content": true,
+    "confidence": "Low - Manual Validation Needed",
+    "final_summary": "The content does not provide direct information on whether the license plate stays with the seller or is transferred with the vehicle. However, it implies that the seller must sign and handprint their name on the proof of ownership document in order to transfer ownership of the vehicle. Thus, it can be inferred that the license plate might be transferred with the vehicle as part of ownership transfer.",
+    "final_quote": "\"When selling a vehicle, the seller must sign and handprint their name on the proof of ownership document. The seller's signature is required to be notarized or verified on the Pennsylvania title.\""
+  },
+  {
+    "state": "Rhode Island",
+    "policy_summary": "The policy does not directly address whether the license plate stays with the seller or is transferred to the buyer. It discusses how to obtain or cancel plates and how to register new ones. The fact that plates may be cancelled suggests that they do not necessarily transfer with the vehicle, but the document does not state this explicitly.",
+    "dmv_excerpt": "Obtaining Plates: Please refer to the New Registration Section of our website.... Cancellation of Plates: Plates may be cancelled at any DMV branch location through their Drop Box, at a AAA Branch office (members only) or online through our Online Plate Cancellation page.",
+    "source_url": "https://dmv.ri.gov/registrations-plates-titles/license-plates",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The policy does not directly address whether the license plate stays with the seller or is transferred to the buyer. It discusses how to obtain or cancel plates and how to register new ones. The fact that plates may be cancelled suggests that they do not necessarily transfer with the vehicle, but the document does not state this explicitly.",
+    "final_quote": "Obtaining Plates: Please refer to the New Registration Section of our website.... Cancellation of Plates: Plates may be cancelled at any DMV branch location through their Drop Box, at a AAA Branch office (members only) or online through our Online Plate Cancellation page."
+  },
+  {
+    "state": "South Carolina",
+    "policy_summary": "The content provided does not explicitly identify whether the license plate stays with the seller or must be transferred to the buyer when the vehicle is sold in South Carolina.",
+    "dmv_excerpt": "Buying or Selling a Car. Vehicle Owners",
+    "source_url": "https://www.scdmvonline.com/Vehicle-Owners/Buying-Or-Selling-A-Car",
+    "plate_retention_policy": "The content provided does not explicitly identify whether the license plate stays with the seller or must be transferred to the buyer when the vehicle is sold in South Carolina."
+  },
+  {
+    "state": "South Dakota",
+    "policy_summary": "The content does not provide explicit information on whether the license plate stays with the seller or is transferred with the vehicle when sold in South Dakota. However, it is mentioned that an application for title and registration is required for all vehicle types, which typically involves the issuance of new plates.",
+    "dmv_excerpt": "Cars, Trucks & Vans Complete an application for your motor vehicle title and registration and apply for license plates.",
+    "source_url": "https://dor.sd.gov/individuals/motor-vehicle/",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Low - Manual Validation Needed",
+    "final_summary": "The content does not provide explicit information on whether the license plate stays with the seller or is transferred with the vehicle when sold in South Dakota. However, it is mentioned that an application for title and registration is required for all vehicle types, which typically involves the issuance of new plates.",
+    "final_quote": "Cars, Trucks & Vans Complete an application for your motor vehicle title and registration and apply for license plates."
+  },
+  {
+    "state": "Tennessee",
+    "policy_summary": "Policy not found - manual validation needed",
+    "dmv_excerpt": "Manual validation required",
+    "source_url": "Not found",
+    "plate_retention_policy": "Manual validation required"
+  },
+  {
+    "state": "Texas",
+    "policy_summary": "The content does not clearly provide a policy on whether the license plate stays with the seller or is transferred to the buyer when the vehicle is sold.",
+    "dmv_excerpt": "The license plate related information provided talks about general issue license plates, current and previous designs, specialty license plates, license plate renewals and replacements, but does not address the specific issue of license plate ownership transfer during a vehicle sale.",
+    "source_url": "https://www.txdmv.gov/motorists/license-plates",
+    "plate_retention_policy": "The policy cannot be classified into one of those two categories.",
+    "verified_policy_content": true,
+    "confidence": "Low - Manual Validation Needed",
+    "final_summary": "The content does not clearly provide a policy on whether the license plate stays with the seller or is transferred to the buyer when the vehicle is sold.",
+    "final_quote": "The license plate related information provided talks about general issue license plates, current and previous designs, specialty license plates, license plate renewals and replacements, but does not address the specific issue of license plate ownership transfer during a vehicle sale."
+  },
+  {
+    "state": "Utah",
+    "policy_summary": "The content does not provide explicit information about whether the license plate stays with the seller or is transferred to the buyer when the vehicle is sold.",
+    "dmv_excerpt": "The original text doesn't contain explicit information regarding policy on license plates transfer or retaining when the vehicle is sold.",
+    "source_url": "https://dmv.utah.gov/buying-selling/responsibilities#:~:text=When%20you%20sell%20your%20vehicle,current%20safety%20and%20emission%20certificates.",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Low - Manual Validation Needed",
+    "final_summary": "The content does not provide explicit information about whether the license plate stays with the seller or is transferred to the buyer when the vehicle is sold.",
+    "final_quote": "The original text doesn't contain explicit information regarding policy on license plates transfer or retaining when the vehicle is sold."
+  },
+  {
+    "state": "Vermont",
+    "policy_summary": "The content does not explicitly indicate whether the license plate stays with the seller or is transferred to the buyer when the vehicle is sold in Vermont. It mainly discusses how number plates should be displayed and attached on the vehicle.",
+    "dmv_excerpt": "Display of Number Plates23 V.S.A. \u00a7 511 A motor vehicle operated on any highway shall have displayed in a conspicuous place either one or two number plates as the Commissioner may require. Such number plates shall be furnished by the Commissioner and shall show the number assigned to such vehicle by the Commissioner.",
+    "source_url": "https://dmv.vermont.gov/dmv/registrations/license-plates",
+    "plate_retention_policy": "Plate stays with vehicle",
+    "verified_policy_content": true,
+    "confidence": "Low - Manual Validation Needed",
+    "final_summary": "The content does not explicitly indicate whether the license plate stays with the seller or is transferred to the buyer when the vehicle is sold in Vermont. It mainly discusses how number plates should be displayed and attached on the vehicle.",
+    "final_quote": "Display of Number Plates23 V.S.A. \u00a7 511 A motor vehicle operated on any highway shall have displayed in a conspicuous place either one or two number plates as the Commissioner may require. Such number plates shall be furnished by the Commissioner and shall show the number assigned to such vehicle by the Commissioner."
+  },
+  {
+    "state": "Virginia",
+    "policy_summary": "The owner has the option to keep the plates by deactivating them or to transfer the plates to a new vehicle using a License Plate Application (VSA 10). Old plates should be destroyed once replaced.",
+    "dmv_excerpt": "You may temporarily deactivate your license plates and registration... Reactivate Plates You can easily reactivate your license plates and registration online... How to Transfer Plates Complete a License Plate Application (VSA 10)... What to Do with Old Plates Once you receive your new (replacement) plates, you may destroy the old plates.",
+    "source_url": "https://www.dmv.virginia.gov/vehicles/license-plates/surrender#:~:text=Sold%2C%20traded%20or%20no%20longer,or%20vehicle%20registration%20to%20DMV.",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The owner has the option to keep the plates by deactivating them or to transfer the plates to a new vehicle using a License Plate Application (VSA 10). Old plates should be destroyed once replaced.",
+    "final_quote": "You may temporarily deactivate your license plates and registration... Reactivate Plates You can easily reactivate your license plates and registration online... How to Transfer Plates Complete a License Plate Application (VSA 10)... What to Do with Old Plates Once you receive your new (replacement) plates, you may destroy the old plates."
+  },
+  {
+    "state": "Washington",
+    "policy_summary": "The license plate should be transferred to the new vehicle owned by the same person, i.e., the plate stays with the owner. An address verification process is required for the transfer.",
+    "dmv_excerpt": "When you transfer your license plates to another vehicle, you must verify your residence street address or business address with us",
+    "source_url": "https://dol.wa.gov/vehicles-and-boats/vehicles/license-plates/transfer-plates-new-vehicle",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plate should be transferred to the new vehicle owned by the same person, i.e., the plate stays with the owner. An address verification process is required for the transfer.",
+    "final_quote": "When you transfer your license plates to another vehicle, you must verify your residence street address or business address with us"
+  },
+  {
+    "state": "West Virginia",
+    "policy_summary": "The content does not provide specific information on whether the license plate stays with the seller or is transferred to the buyer when the vehicle is sold in West Virginia. The details mostly revolve around titling a new vehicle, certificate of origin, new and used vehicle purchases, ATV's, gift transactions, trade-ins, titles and liens, lost/duplicate titles, and the procedure when a registrant dies. Overall, it focuses on the vehicle title rather than the license plates. Therefore, the policy regarding license plate transfer during vehicle sales remains uncertain based on the provided information.",
+    "dmv_excerpt": "Not available due to the lack of direct information on license plate transfer policy in the given content.",
+    "source_url": "https://transportation.wv.gov/DMV/Vehicle-Services/Titles/Pages/default.aspx",
+    "plate_retention_policy": "Plate stays with seller"
+  },
+  {
+    "state": "Wisconsin",
+    "policy_summary": "Not specified",
+    "dmv_excerpt": "Not specified",
+    "source_url": "Information not provided",
+    "plate_retention_policy": "Plate stays with vehicle"
+  },
+  {
+    "state": "Wyoming",
+    "policy_summary": "The policy cannot be identified based on the provided content. Additional information is required.",
+    "dmv_excerpt": "",
+    "source_url": "",
+    "plate_retention_policy": "The policy cannot be identified based on the provided content. Additional information is required."
+  }
+]

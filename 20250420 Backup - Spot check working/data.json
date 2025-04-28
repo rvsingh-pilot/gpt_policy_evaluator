@@ -1,0 +1,81 @@
+[
+  {
+    "state": "California",
+    "policy_summary": "The license plate stays with the vehicle when sold, except in the case of disabled person, special interest, or personalized license plates which must be removed by the seller.",
+    "dmv_excerpt": "Most vehicles have sequentially issued \u201cstandard\u201d license plates that remain with the vehicle when ownership is transferred. Disabled person, special interest, or personalized license plates belong to the plate owner, not the vehicle. As the seller of a vehicle with disabled person, special interest, or personalized license plates, you must remove the plates.",
+    "highlighted_quote": "Most vehicles have sequentially issued \u201cstandard\u201d **license plates that remain with the vehicle** when ownership is transferred. Disabled person, special interest, or personalized license plates belong to the plate owner, not the vehicle.",
+    "source_url": "https://www.dmv.ca.gov/portal/how-to-change-vehicle-ownership-htvr-32/",
+    "plate_retention_policy": "Plate stays with vehicle",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plate stays with the vehicle when sold, except in the case of disabled person, special interest, or personalized license plates which must be removed by the seller.",
+    "final_quote": "Most vehicles have sequentially issued \u201cstandard\u201d license plates that remain with the vehicle when ownership is transferred. Disabled person, special interest, or personalized license plates belong to the plate owner, not the vehicle. As the seller of a vehicle with disabled person, special interest, or personalized license plates, you must remove the plates."
+  },
+  {
+    "state": "New York",
+    "policy_summary": "In the state of New York, the license plate must be surrendered to the DMV when you cancel the vehicle's liability insurance coverage or register your vehicle in another state.",
+    "dmv_excerpt": "Before you cancel the vehicle's liability insurance coverage you must surrender your plates and registration. If you do not turn in your plate(s), we will suspend your registration and can suspend your driver license. If you want to register your vehicle in another state you must surrender your New York State vehicle plates to the New York DMV.",
+    "highlighted_quote": "Before you cancel the vehicle's liability **insurance coverage you must surrender your plates** and registration. If you do not turn in your plate(s), we will suspend your registration and can suspend your driver license. If you want to register your vehicle in another state you must **surrender your New York State vehicle plates** to the New York DMV.",
+    "source_url": "https://dmv.ny.gov/registration/surrender-return-or-turn-in-your-vehicle-plates-and-registration",
+    "plate_retention_policy": "Plate must be surrendered to DMV"
+  },
+  {
+    "state": "Texas",
+    "policy_summary": "The license plate should be transferred with the owner to a new vehicle. If not kept, the license plates need to be defaced before disposal to prevent fraudulent use.",
+    "dmv_excerpt": "It is simple and free to transfer your license plates to your new vehicle. The TxDMV encourages you to transfer your plates because it protects you. If you decide not to keep your license plates when you sell or dispose of your vehicle, the plates should be disposed of by defacing the front of the plate with permanent black ink, or similar method, in order to prevent their fraudulent use.",
+    "highlighted_quote": "**transfer your license plates to your new vehicle** ... If you decide **not to keep your license plates** when you sell or dispose of your vehicle, the plates should be disposed of by **defacing the front of the plate**.",
+    "source_url": "https://www.txdmv.gov/motorists/license-plates",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The license plate should be transferred with the owner to a new vehicle. If not kept, the license plates need to be defaced before disposal to prevent fraudulent use.",
+    "final_quote": "It is simple and free to transfer your license plates to your new vehicle. The TxDMV encourages you to transfer your plates because it protects you. If you decide not to keep your license plates when you sell or dispose of your vehicle, the plates should be disposed of by defacing the front of the plate with permanent black ink, or similar method, in order to prevent their fraudulent use."
+  },
+  {
+    "state": "New Jersey",
+    "policy_summary": "Policy not found - manual validation needed",
+    "dmv_excerpt": "",
+    "highlighted_quote": "",
+    "source_url": "",
+    "plate_retention_policy": "Plate stays with vehicle"
+  },
+  {
+    "state": "Florida",
+    "policy_summary": "In Florida, the license plate stays with the seller when a vehicle is sold. The seller has the option to transfer the plate to a new or replacement vehicle. However, under certain circumstances, the seller must surrender the tag to a motor vehicle service center.",
+    "dmv_excerpt": "In a sale, license plates stay with seller not the vehicle. When motor vehicles are sold, the seller must remove the license plate from the vehicle and may then transfer the plate to a new or replacement vehicle. The seller must surrender the tag to a motor vehicle service center if:",
+    "highlighted_quote": "In a sale, **license plates stay with seller** not the vehicle. When motor vehicles are sold, the seller must **remove the license plate** from the vehicle and may then **transfer the plate** to a new or replacement vehicle. The seller must **surrender the tag** to a motor vehicle service center if:",
+    "source_url": "https://www.flhsmv.gov/safety-center/consumer-education/selling-vehicle/",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "In Florida, the license plate stays with the seller when a vehicle is sold. The seller has the option to transfer the plate to a new or replacement vehicle. However, under certain circumstances, the seller must surrender the tag to a motor vehicle service center.",
+    "final_quote": "In a sale, license plates stay with seller not the vehicle. When motor vehicles are sold, the seller must remove the license plate from the vehicle and may then transfer the plate to a new or replacement vehicle. The seller must surrender the tag to a motor vehicle service center if:"
+  },
+  {
+    "state": "Louisiana",
+    "policy_summary": "Policy not found - manual validation needed",
+    "dmv_excerpt": "",
+    "highlighted_quote": "",
+    "source_url": "https://expresslane.dps.louisiana.gov/Notice_of_Transfer/VT_FAQ.aspx",
+    "plate_retention_policy": "Policy not found - manual validation needed"
+  },
+  {
+    "state": "Georgia",
+    "policy_summary": "The license plate should stay with the owner when selling the vehicle.",
+    "dmv_excerpt": "When selling a motor vehicle, the owner must transfer ownership and cancel their registration. The new owner must then register the vehicle in their name.",
+    "highlighted_quote": "When selling a motor vehicle, the **owner must transfer ownership** and cancel their registration. The new owner must then register the vehicle in their name.",
+    "source_url": "https://georgia.gov/sell-motor-vehicle#:~:text=The%20previous%20owner%20should%20keep,to%20the%20DOR%20for%20cancellation.",
+    "plate_retention_policy": "Plate stays with seller",
+    "verified_policy_content": true,
+    "confidence": "Medium - Validation Needed",
+    "final_summary": "The license plate should stay with the owner when selling the vehicle.",
+    "final_quote": "When selling a motor vehicle, the owner must transfer ownership and cancel their registration. The new owner must then register the vehicle in their name."
+  },
+  {
+    "state": "Illinois",
+    "policy_summary": "Policy not found - manual validation needed",
+    "dmv_excerpt": "Manual validation required",
+    "source_url": "Not found",
+    "plate_retention_policy": "Manual validation required"
+  }
+]
