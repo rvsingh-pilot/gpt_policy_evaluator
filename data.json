@@ -1,5 +1,18 @@
 [
   {
+    "state": "Ohio",
+    "policy_summary": "The original owner must remove the license plates from the vehicle upon transfer of ownership. The original owner can then transfer the registration and license plates to another vehicle they own within 30 days, under certain conditions. If the vehicle is transferred due to death, the registration and any license plates may be retained by the new owner. Commercial vehicles with a weight over 10,000 pounds are allowed to shift registration to other vehicles owned by the owner without a change of the vehicle's ownership.",
+    "dmv_excerpt": "Upon the transfer of ownership of a motor vehicle, the registration of the motor vehicle expires, and the original owner immediately shall remove the license plates from the motor vehicle. If the original owner of a motor vehicle that has been transferred makes application for the registration of another motor vehicle at any time during the remainder of the registration period for which the transferred motor vehicle was registered, the owner may file an application for transfer of the registration and, where applicable, the license plates.",
+    "highlighted_quote": "Upon the transfer of ownership of a motor vehicle, the registration of the motor vehicle expires, and the **original owner immediately shall remove the license plates** from the motor vehicle. If the original owner of a motor vehicle that has been transferred makes application for the registration of another motor vehicle at any time during the remainder of the registration period for which the transferred motor vehicle was registered, the owner may **file an application for transfer of the registration and, where applicable, the license plates**.",
+    "plate_retention_policy": "Plate stays with seller (can transfer)",
+    "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4503.12",
+    "verified_policy_content": true,
+    "confidence": "High",
+    "final_summary": "The original owner must remove the license plates from the vehicle upon transfer of ownership. The original owner can then transfer the registration and license plates to another vehicle they own within 30 days, under certain conditions. If the vehicle is transferred due to death, the registration and any license plates may be retained by the new owner. Commercial vehicles with a weight over 10,000 pounds are allowed to shift registration to other vehicles owned by the owner without a change of the vehicle's ownership.",
+    "final_quote": "Upon the transfer of ownership of a motor vehicle, the registration of the motor vehicle expires, and the original owner immediately shall remove the license plates from the motor vehicle. If the original owner of a motor vehicle that has been transferred makes application for the registration of another motor vehicle at any time during the remainder of the registration period for which the transferred motor vehicle was registered, the owner may file an application for transfer of the registration and, where applicable, the license plates.",
+    "evaluation_notes": "Policy clearly stated"
+  },
+  {
     "state": "Massachusetts",
     "policy_summary": "The license plate should be transferred to the new vehicle purchased by the same seller.",
     "dmv_excerpt": "If you own a vehicle or trailer and purchase a new vehicle or trailer from an individual, you may transfer your registration to the newly acquired vehicle. Massachusetts allows a grace period of 7 calendar days from the date you dispose of your previous vehicle to register your newly acquired vehicle.",
@@ -473,19 +486,6 @@
     "confidence": "High",
     "final_summary": "In North Dakota, the license plate should be retained by the seller when a vehicle is sold or transferred. A credit towards the registration fee due on the replacement vehicle is allowed for the owner of a vehicle, who has removed their license plate(s) from a vehicle at the time it was sold.",
     "final_quote": "When the owner of a vehicle sells, trades, or otherwise transfers the ownership of the vehicle, the license plate(s) must be removed by the seller and the vehicle will be considered unlicensed. The owner of a vehicle, who has removed their license plate(s) from a vehicle at the time it was sold, is allowed a credit towards the registration fee due on the replacement vehicle.",
-    "evaluation_notes": "None"
-  },
-  {
-    "state": "Ohio",
-    "policy_summary": "The license plate is non-transferrable and must stay with the same vehicle when the vehicle is sold.",
-    "dmv_excerpt": "Customers may pay eight years of registration fees to receive a non-transferable, permanent registration plate. Permanent Non-Commercial registrations are non-transferrable.",
-    "highlighted_quote": "Customers may pay eight years of registration fees to receive a **non-transferable, permanent registration plate**. Permanent Non-Commercial registrations are **non-transferrable**.",
-    "plate_retention_policy": "Plate stays with vehicle",
-    "source_url": "https://www.bmv.ohio.gov/vr-permanent-trailer.aspx",
-    "verified_policy_content": true,
-    "confidence": "High",
-    "final_summary": "The license plate is non-transferrable and must stay with the same vehicle when the vehicle is sold.",
-    "final_quote": "Customers may pay eight years of registration fees to receive a non-transferable, permanent registration plate. Permanent Non-Commercial registrations are non-transferrable.",
     "evaluation_notes": "None"
   },
   {
